@@ -8,7 +8,7 @@ CraftHost Daemon is the daemon for the CraftHost Panel.
 
 ## Installation
 1. Clone the repository:
-`git clone https://github.com/hydren-dev/HydraDAEMON`
+`git clone https://github.com/MasterCraftGamer/CraftHostDaemon`
 
 2. Install dependencies:
 `npm install`
